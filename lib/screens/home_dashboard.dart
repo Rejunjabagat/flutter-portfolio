@@ -57,8 +57,8 @@ class HomeDashboard extends StatelessWidget {
                     ),
                     const SizedBox(height: 8),
                     Text(
-                      'This is the master app for all my laboratory '
-                      'activities in Mobile Application Development.',
+                      'Everything I build for my lab goes in here, '
+                      'one activity at a time.',
                       style: theme.textTheme.bodyMedium?.copyWith(
                         color: theme.colorScheme.onPrimaryContainer,
                       ),
