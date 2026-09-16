@@ -1,6 +1,7 @@
-# My Flutter Portfolio
+# ACTIVITY 1 – Flutter Portfolio & State Management
 
 Master compilation app for laboratory activities in Mobile Application Development.
+Submitted by: Rejun Q. Jabagat
 
 Built for the **Hands-on Activity: Flutter Portfolio & State Management**.
 
